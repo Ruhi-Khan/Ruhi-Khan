@@ -13,14 +13,18 @@
 <br clear="both">
 
 <div align="center">
-  <img height="39" src=C:\Users\HP\Downloads\6cfee967fe06a12e051dea21aec95570.png  />
+![6cfee967fe06a12e051dea21aec95570](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/b6f6d297-f30a-4024-8bff-9f49f1780b8e)
+
+
 </div>
 
 ###
 <br clear="both">
 
 <div align="center">
-  <img height="45" src=C:\Users\HP\Downloads\0eff58c6e36b66cc374206788c5f8e19.png />
+  
+ ![0eff58c6e36b66cc374206788c5f8e19](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/0a1824c3-0a42-4dfe-b1fe-1aa7e7baba68)
+ 
 </div>
 
 ###
