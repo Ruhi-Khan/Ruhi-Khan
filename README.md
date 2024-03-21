@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-![6cfee967fe06a12e051dea21aec95570](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/b6f6d297-f30a-4024-8bff-9f49f1780b8e)
-
+  
+  ![6cfee967fe06a12e051dea21aec95570](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/df5591b7-6df0-4af2-98bb-1324007ea3cf)
 
 </div>
 
