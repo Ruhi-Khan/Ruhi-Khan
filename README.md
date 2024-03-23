@@ -23,7 +23,8 @@
 
 <div align="center">
   
- ![0eff58c6e36b66cc374206788c5f8e19](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/0a1824c3-0a42-4dfe-b1fe-1aa7e7baba68)
+ ![0eff58c6e36b66cc374206788c5f8e19](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/0a1824c3-0a42-4dfe-b1fe-1aa7e7baba68)   ![github gif](https://github.com/Ruhi-Khan/Ruhi-Khan/assets/152194447/5635591d-78b4-4a88-9f32-77347c86bb09)
+
  
 </div>
 
