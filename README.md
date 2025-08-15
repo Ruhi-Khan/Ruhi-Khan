@@ -16,7 +16,6 @@ Open Source Contributor 🚀 | Forever Curious 📚 | Video Learning Buff 🎥
 ### 🚦 Languages & Tools
 - **Python** 🐍
 - **SQL** 🗄️
-- **Jupyter Notebook** 📓
 - **Git & GitHub** 🌐
 
 ### 📊 Data Science Fundamentals
@@ -54,6 +53,6 @@ Whether you're here to collaborate, share knowledge, or just explore, remember:
 **"Every keystroke is a step toward your next breakthrough. The world of code is limitless—so dream big, build boldly, and let your curiosity lead the way!"** 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Dreaming and Building" width="350"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Dreaming and Building" width="350" breath="400"/>
 </p>
 ---
