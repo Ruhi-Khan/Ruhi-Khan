@@ -41,9 +41,9 @@ Open Source Contributor 🚀 | Forever Curious 📚 | Video Learning Buff 🎥
 ## 🎯 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruhi-khan"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:ruhikhan@example.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" alt="Email"></a>
-  <a href="https://twitter.com/ruhi-khan"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/ruhi-khan-11216b259"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:khanruhi2630@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" alt="Email"></a>
+  <a href="https://x.com/RuhiKhan2360"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" alt="Twitter"></a>
 </p>
 
 ---
