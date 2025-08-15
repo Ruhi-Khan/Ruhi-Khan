@@ -1,6 +1,6 @@
 <!-- Welcome GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ3ODRqeWlhbzdoeWJ6NGVycjBldXJkZzVvdjJub3pnNzA0NHJrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" alt="Welcome" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ3ODRqeWlhbzdoeWJ6NGVycjBldXJkZzVvdjJub3pnNzA0NHJrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" alt="Welcome" width="200"/>
 </p>
 
 # Hi there, I'm Ruhi Khan! 👋
