@@ -57,3 +57,13 @@ Whether you're here to collaborate, share knowledge, or just explore, remember:
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Dreaming and Building" width="350"/>
 </p>
 ---
+
+
+----
+## Currently Focusing
+
+[![View Flow Chart](https://img.shields.io/badge/View-Flow%20Chart-blue?logo=mermaid)](https://mermaid.live/edit#pako:eNpVkU1vgkAQhv_KZg6NJoTwIfJxs3ppqm2jPTVcVnaEbWCXLLuJ1PjfCygS5zTvM-87c5gLZJIhJFBxwSpap4IQJaWeze5gPu8RIRuuMNNciuam-_qsUZCDNCrDEX61upBisrybIyqBGh-xdSkNG8XqjbyQ3fZ-gmpKDhlHMe2bapiuBC1bzbPmef5tjiWn4hnusClQtWQb3Pgrz4clo2s_2fdIMz3KDzxr-7cBC3LFGSRaGbSgQlXRXsKlN6agC6wwhaRrGZ6oKXUKqbh2sZqKHymrMamkyQtITrRsOmVqRjVuOM0VrR5UoWCo1tIIDYnnuMGwBZILnCFxo9D2vcD3_dBZuIHr-Ba0HV5GdrBYepHvhIsuEnpXC_6Gw44dxFEYu44Xhcswjj3XAmRcS7W7fXt4-vUfHYyRmw)
+
+> Click the badge above to view the interactive flow chart for my current focus!
+>
+> ---
