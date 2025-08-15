@@ -49,11 +49,11 @@ Open Source Contributor 🚀 | Forever Curious 📚 | Video Learning Buff 🎥
 ---
 ---
 
-<details>
-  <summary>✨ Fun Fact!</summary>
-  <blockquote>
-    "Every line of code is a step towards solving real-world problems. Let's learn together!"
-  </blockquote>
-</details>
+Thank you for stopping by!  
+Whether you're here to collaborate, share knowledge, or just explore, remember:  
+**"Every keystroke is a step toward your next breakthrough. The world of code is limitless—so dream big, build boldly, and let your curiosity lead the way!"** 🚀
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Mb43BKaQhA4RzWc/giphy.gif" alt="Keep Dreaming and Building" width="350"/>
+</p>
 ---
