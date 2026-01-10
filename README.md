@@ -26,33 +26,13 @@ Open Source Contributor 🚀 | Forever Curious 📚 | Video Learning Buff 🎥
 ### 🗃️ Big Data Basics
 - Introduction to **Hadoop** & **Spark** ⚡
 
----
-
-## 🚀 What Drives Me?
-
-- 🌱 Always exploring something new in tech
-- 📹 Love learning from videos & tutorials
-- 🤝 Enjoy collaborating on open source projects
-- 💡 Believe in sharing knowledge & growing together!
-
----
-
 ## 🎯 Let's Connect & Collaborate!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruhi-khan-11216b259"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:khanruhi2630@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" alt="Email"></a>
   <a href="https://x.com/RuhiKhan2360"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" alt="Twitter"></a>
+  
 </p>
 
----
----
-
-Thank you for stopping by!  
-Whether you're here to collaborate, share knowledge, or just explore, remember:  
-**"Every keystroke is a step toward your next breakthrough. The world of code is limitless—so dream big, build boldly, and let your curiosity lead the way!"** 🚀
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Dreaming and Building" width="200"/>
-</p>
 ---
