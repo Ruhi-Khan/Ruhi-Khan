@@ -36,7 +36,7 @@ Open Source Contributor 🚀 | Forever Curious 📚 | Video Learning Buff 🎥
 
 ## 🌟 Featured Project
 
-### 🛡️ [ENS Guardian](#)
+### 🛡️ [ENS Guardian](https://github.com/Ruhi-Khan/ENS-Guardian)
 A security tool that analyzes ENS names for phishing, typosquatting, and trust signals before sending crypto.
 Built with Next.js, Viem, Prisma, and a custom on-chain risk scoring engine.
 
